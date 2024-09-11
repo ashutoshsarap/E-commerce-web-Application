@@ -1,2 +1,10 @@
-# E-commerce-web-Application
-Developed a web app for Customers as well as Retailers to buy and sell products respectively. Allows retailers to update Product information. Used Spring Boot to power the back end. Integrated PostgreSQL database to manage product data. 
+In this Spring Boot Project I have developed backend for an e-commerce web application
+Using this web app users can get information about products present int the database, also Sellers can update details about a certain product
+
+Technologies I have used are :
+Java Spring Boot Framework
+PostgreSQL : for storing product details
+Apache Tomcat Server
+Hibernate : to map java classes to database
+Lombok : to reduce lines of code
+Maven : to add dependencies
